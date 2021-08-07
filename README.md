@@ -1,7 +1,10 @@
-# Datastructures
+# Data Structures
 
-Array
-
+- Array
+- Stack
+- Queue
+- Singly Linked List
+- Doubly Linked List
 
 # Algorithms
 
@@ -10,3 +13,5 @@ Array
 - Bubble Sort
 - Selection Sort
 - Quick Sort
+- Insertion Sort
+- Shell Sort
